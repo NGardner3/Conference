@@ -1,0 +1,15 @@
+{
+  "name": "conference",
+  "version": "0.0.1",
+  "description": "This is a sample sass maven project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicole Gardner",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~1.2.1",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
